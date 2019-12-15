@@ -468,7 +468,7 @@ section {
     padding: 2.2rem 0 0 3rem;
   }
   .main-visual {
-    background-image: url(../img/DSC_0992.JPG);
+    background-image: url(../img/DSC_0992.png);
     height: 420px;
     background-size: cover;
     object-fit: cover;
@@ -551,7 +551,7 @@ section {
     background-color: rgba(246, 255, 212, 0.6);
   }
   .works-bg {
-    background-image: url(../img/S__29270027.jpg);
+    background-image: url(../img/S__29270027.png);
     background-repeat:  no-repeat;
     background-position:left bottom;
     background-size:contain;
@@ -559,7 +559,7 @@ section {
   }
   .services {
     margin: 0 auto;
-    background-image: url(../img/freetecture.jpg);
+    background-image: url(../img/freetecture.png);
     background-size: cover;
     object-fit: cover;
     background-position: center center;
@@ -589,7 +589,7 @@ section {
     height: 1.5rem;
   }
   .contact {
-    background-image: url(../img/S__29270018.jpg);
+    background-image: url(../img/S__29270018.png);
     background-size: cover;
     object-fit: cover;
     background-position: center center;
