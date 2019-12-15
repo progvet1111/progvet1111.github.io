@@ -655,7 +655,7 @@ section {
   }
 
   /*--- メディアクエリ --*/
-  @media screen and (min-width:670px) {
+  @media screen and (min-width:560px) {
   h2 {
     font-size: 4rem;
     padding-left: 6rem;
@@ -683,6 +683,17 @@ section {
   .form-container {
     width: 75%;
   }
+  #page_top {
+    width: 5vw;
+    height: 5vw;
+  }
+  #page_top a {
+    font-size: 2rem;
+    line-height: 5vw;
+  }
+}
+
+@media screen and (min-width:960px) {
   #navArea {
     display: none;
   }
@@ -700,13 +711,5 @@ section {
   }
   .nav-float li {
     margin-left: 3rem;
-  }
-  #page_top {
-    width: 5vw;
-    height: 5vw;
-  }
-  #page_top a {
-    font-size: 2rem;
-    line-height: 5vw;
   }
 }
